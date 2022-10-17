@@ -1,0 +1,1 @@
+# Vik_et_al_FAQ-predictor-of-AD_paper-source-code
